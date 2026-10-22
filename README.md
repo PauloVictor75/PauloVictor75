@@ -2,7 +2,7 @@
 
 Especialista em automação (RPA e Python), com atuação no **setor elétrico (ONS)**, em Fortaleza - CE.
 
-Construo robôs e pipelines que tiram trabalho repetitivo das pessoas: extração de dados de APIs e PDFs, ETL, automação de processos com RPA e soluções com LLMs aplicadas a documentos técnicos.
+Construo robôs e pipelines que tiram trabalho repetitivo das pessoas: extração de dados de APIs e PDFs, ETL, automação de processos com RPA e soluções com LLMs, como atendimento automatizado no WhatsApp e no Instagram e consulta a documentos para apoiar decisões de negócio.
 
 Pós-graduação em **Automação Robótica e Agentes Inteligentes** (UNIFOR).
 
@@ -16,7 +16,7 @@ Pós-graduação em **Automação Robótica e Agentes Inteligentes** (UNIFOR).
 | Infraestrutura | Docker, Docker Compose |
 | RPA | UiPath, Power Automate Desktop, Blue Prism, BotCity |
 | Integrações | n8n, e-mail, WhatsApp, Excel e Outlook |
-| LLMs | RAG, extração e consulta de documentos |
+| LLMs | Agentes de atendimento (WhatsApp e Instagram), RAG e consulta de documentos |
 
 ## Projetos em destaque
 
