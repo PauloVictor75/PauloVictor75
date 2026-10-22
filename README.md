@@ -36,3 +36,7 @@ Pós-graduação em **Automação Robótica e Agentes Inteligentes** (UNIFOR).
 | [pad-automacao-viagens-corporativas](https://github.com/PauloVictor75/pad-automacao-viagens-corporativas) | Power Automate Desktop | Valida solicitações de viagem, reserva o voo de menor preço e envia relatório por e-mail |
 | [RPA-Sicalc-Paulo](https://github.com/PauloVictor75/RPA-Sicalc-Paulo) | Blue Prism | Gera e baixa DARFs no SicalcAA com Work Queues e tratamento de exceções |
 | [botcity-robotsparebin](https://github.com/PauloVictor75/botcity-robotsparebin) | BotCity (Python) | Faz pedidos no RobotSpareBin a partir de um CSV e reporta ao BotCity Maestro |
+
+## Contato
+
+[LinkedIn](https://www.linkedin.com/in/paulo-carneiro-478b82103/)
