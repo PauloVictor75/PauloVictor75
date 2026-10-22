@@ -37,6 +37,13 @@ Pós-graduação em **Automação Robótica e Agentes Inteligentes** (UNIFOR).
 | [RPA-Sicalc-Paulo](https://github.com/PauloVictor75/RPA-Sicalc-Paulo) | Blue Prism | Gera e baixa DARFs no SicalcAA com Work Queues e tratamento de exceções |
 | [botcity-robotsparebin](https://github.com/PauloVictor75/botcity-robotsparebin) | BotCity (Python) | Faz pedidos no RobotSpareBin a partir de um CSV e reporta ao BotCity Maestro |
 
+### Agentes no WhatsApp (n8n)
+
+| Projeto | Descrição |
+|---|---|
+| [atendimento-hotel-whatsapp-n8n](https://github.com/PauloVictor75/atendimento-hotel-whatsapp-n8n) | Agente de reservas de hotel em produção: consulta disponibilidade no Google Sheets e registra a reserva |
+| [gamebot-whatsapp-n8n](https://github.com/PauloVictor75/gamebot-whatsapp-n8n) | Atendimento de loja de games que entende texto, áudio e imagem e registra pedidos na planilha |
+
 ## Contato
 
 [LinkedIn](https://www.linkedin.com/in/paulo-carneiro-478b82103/)
