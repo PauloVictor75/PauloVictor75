@@ -1,4 +1,4 @@
-# Olá, eu sou o Paulo Victor 👋
+# Olá, eu sou o Paulo Carneiro 👋
 
 Especialista em automação (RPA e Python), com atuação no **setor elétrico (ONS)**, em Fortaleza - CE.
 
