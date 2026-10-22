@@ -1,6 +1,6 @@
 # Olá, eu sou o Paulo Victor 👋
 
-Engenheiro de dados e especialista em automação, com atuação no **setor elétrico (ONS)**, em Fortaleza - CE.
+Especialista em automação (RPA e Python), com atuação no **setor elétrico (ONS)**, em Fortaleza - CE.
 
 Construo robôs e pipelines que tiram trabalho repetitivo das pessoas: extração de dados de APIs e PDFs, ETL, automação de processos com RPA e soluções com LLMs aplicadas a documentos técnicos.
 
